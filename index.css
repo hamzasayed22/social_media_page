@@ -1,0 +1,55 @@
+body{
+  font-family: "Kedebideri", sans-serif;
+  font-weight: 400;
+  background-color: #141414;
+  text-align: center;
+}
+.smaller_background{
+    transform: scale(1.6);
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 250px;
+    height:370px;
+    background-color: #1F1F1F;
+    border-radius: 15px;
+}
+#pic{
+    margin-top: 20px;
+    width: 60px;
+    border-radius: 30px;
+}
+.media_btn{
+    color: #FFFFFF;
+    width: 200px;
+    border: #333333;
+    border-color: #333333;
+    border-style: solid;
+    border-radius: 200px;
+    background: #333333;
+    margin-bottom: 8px;
+    cursor: pointer;
+
+}
+.media_btn:hover{
+    background-color: #C4F82A;
+    border-color: #C4F82A;
+    color: #243B00;
+    transition: color 0.6s ease;
+}
+#name_txt{
+    margin-bottom: 0;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+#location_txt{
+    margin-top: auto;
+    font-size: 15px;
+    color: #CBE462;
+}
+#about_txt{
+    font-weight: 100;
+    font-size: 8px;
+    color:#FFFFFF;
+}
