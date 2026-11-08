@@ -29,7 +29,3 @@ Project Structure
   index.html
   style.css
   /assets (optional for images/icons)
-
-Contact
-
-Created by Hamza Sayed — feel free to reach out!
